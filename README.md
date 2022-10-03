@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Web Development (React, Angular and TypeScript)
+🌱 I’m currently learning various programming languages (Java, JavaScript, Python, PHP)
 
 
 ## 🌐 Socials:
